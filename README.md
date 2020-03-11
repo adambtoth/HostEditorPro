@@ -24,3 +24,12 @@ save the edited file |
 Known issues | 
 ------------ |
 N/A |
+
+Fixed bugs | 
+------------ |
+N/A |
+
+
+Adam B Toth
+
+www.adambtoth.com
