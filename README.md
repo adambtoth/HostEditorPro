@@ -2,7 +2,7 @@
 
 This is a little Windows host file editor tool.
 
-![](https://raw.githubusercontent.com/adambtoth/HostEditorPro/master/screenshots/02.png?token=AKLXAP3TP4GZGHYNXUS2AGC6NC456)
+![](https://github.com/adambtoth/HostEditorPro/blob/master/screenshots/02.png)
 
 Latest version: v1.0.1
 
