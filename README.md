@@ -30,6 +30,5 @@ Fixed bugs |
 N/A |
 
 
-Adam B Toth
-
+Created by: **Adam B Toth**
 www.adambtoth.com
