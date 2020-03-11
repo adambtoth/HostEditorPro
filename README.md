@@ -6,7 +6,7 @@ It is easy to use and functional. If you find a bug please report to me.
 
 Email: support@adambtoth.com
 
-![](https://github.com/adambtoth/HostEditorPro/blob/master/screenshots/02.png)
+![](https://github.com/adambtoth/HostEditorPro/blob/master/screenshots/03.png)
 
 Latest version: v1.0.1
 
